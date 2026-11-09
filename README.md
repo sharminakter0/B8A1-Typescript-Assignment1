@@ -42,8 +42,8 @@ The solutions cover:
 
 As part of this assignment, I have written two blog posts:
 
-1. [Type Aliases vs Interfaces in TypeScript](./type-vs-interface.md)
-2. [Generics and Asynchronous in TypeScript](./generics-and-async.md)
+1. [Type Aliases vs Interfaces in TypeScript](./[type-vs-interface].md)
+2. [Generics and Asynchronous in TypeScript](./[generics-and-async].md)
 
 ## Learning Outcomes
 
