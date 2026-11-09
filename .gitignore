@@ -1,0 +1,10 @@
+node_modules/
+.env
+package-lock.json
+package.json
+solutions.d.ts
+solutions.d.ts.map
+solutions.js
+solutions.js.map
+test.ts
+tsconfig.json
