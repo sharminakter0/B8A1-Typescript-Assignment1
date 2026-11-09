@@ -8,7 +8,6 @@ This repository contains my solutions for **Programming Hero Module 4, Assignmen
 
 - TypeScript
 - JavaScript
-- Node.js
 - Object-Oriented Programming (OOP)
 
 ## Project Structure
